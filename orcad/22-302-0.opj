@@ -1,0 +1,49 @@
+(ExpressProject "22-302-0"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S003 (3838025) [1/28/2020]-[09/08/22]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\22-302-0.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Select "Design Resources"
+         "D:\Work\MT\projects\pcb-22-302 (compressor controller - Z190)\orcad\22-302-0.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 272 0 765"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1637 24 783")
+        (Scroll "-162 0")
+        (Zoom "109")
+        (Occurrence "/"))
+      (Path
+         "D:\WORK\MT\PROJECTS\PCB-22-302 (COMPRESSOR CONTROLLER - Z190)\ORCAD\22-302-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
