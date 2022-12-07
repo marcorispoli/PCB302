@@ -1,4 +1,10 @@
 *-PSpiceFiles/
 
-*.dsnlck
-*.dbk
+orcad/*.dsnlck
+orcad/*.dbk
+orcad/*.3sav
+
+spice/**/*.log
+spice/**/*.raw
+spice/**/*.fft
+spice/**/*.plt
