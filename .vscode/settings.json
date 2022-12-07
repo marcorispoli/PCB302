@@ -1,0 +1,11 @@
+{
+    "markdown.extension.toc.levels": "2..4",
+    "markdown.styles": ["markdown.css"],
+    "markdown-pdf.styles": ["markdown.css"],
+    "markdown-pdf.margin.top": "1.5cm",
+    "markdown-pdf.margin.bottom": "1.5cm",
+    "markdown-pdf.margin.right": "0cm",
+    "markdown-pdf.margin.left": "0cm",
+    "markdown-pdf.headerTemplate": "<div style=\"font-size: 9px; margin: 0 auto;\"></div>",
+    "markdown-pdf.footerTemplate": "<div style=\"font-size: 9px; margin: 0 auto;\">Pagina <span class='pageNumber'></span> di <span class='totalPages'></span></div>",
+}
