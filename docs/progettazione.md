@@ -124,7 +124,7 @@ Oltre l'azionamento automatico fino a un massimo di 200N, il sistema prevede l'i
 | Part number | `3590S-2-502L` |
 | Codice MT   | ???            |
 
-- [Product page ](https://www.bourns.com/products/potentiometers/precision-pots-multiturn/product/3590)
+- [Product page](https://www.bourns.com/products/potentiometers/precision-pots-multiturn/product/3590)
 - [Datasheet](../artifacts/datasheets/potenziometro/3590.pdf)
 
 ### 2.2. Connettori
@@ -226,14 +226,14 @@ Il connettore **J4** fornisce le interfacce dell'hardware bus, propriamente dett
 
 Segue la descrizione dei segnali:
 
-- `HW_CAN_H`     - [I/O] Linea dati alta del CAN bus
-- `HW_CAN_L`     - [I/O] Linea dati bassa del CAN bus
+- `HW_CAN_H`     - \[I/O\] Linea dati alta del CAN bus
+- `HW_CAN_L`     - \[I/O\] Linea dati bassa del CAN bus
 - `HW_CAN_GND`   - Massa del CAN bus
-- `HW_CMP_ENA`   - [I] Abilitazione dell'azionamento del compressore. E' utilizzato dal microcontrollore ma interviene anche direttamente sull'hardware di azionamento.
-- `HW_CMP_UP`    - [I] Richiesta di decompressione. E' utilizzato dal solo microcontrollore.
-- `HW_CMP_DWN`   - [I] Richiesta di compressione. E' utilizzato dal solo microcontrollore.
-- `HW_CMP_ON`    - [O] Stato di compressione in essere. Viene attivato quando il sensore di forza rileva una forza superiore ad un'appropriata soglia. **Viene generato per via hardware**.
-- `HW_CALIB_ENA` - [I] Abilitazione delle operazioni di calibrazione. Interviene direttamente sull'hardware di calibrazione.
+- `HW_CMP_ENA`   - \[I\] Abilitazione dell'azionamento del compressore. E' utilizzato dal microcontrollore ma interviene anche direttamente sull'hardware di azionamento.
+- `HW_CMP_UP`    - \[I\] Richiesta di decompressione. E' utilizzato dal solo microcontrollore.
+- `HW_CMP_DWN`   - \[I\] Richiesta di compressione. E' utilizzato dal solo microcontrollore.
+- `HW_CMP_ON`    - \[O\] Stato di compressione in essere. Viene attivato quando il sensore di forza rileva una forza superiore ad un'appropriata soglia. **Viene generato per via hardware**.
+- `HW_CALIB_ENA` - \[I\] Abilitazione delle operazioni di calibrazione. Interviene direttamente sull'hardware di calibrazione.
 - `GND_HW`       - Massa dell'hardware bus
 
 I segnali `HW_CAN_H`, `HW_CAN_L` e `HW_CAN_GND` sono inoltrati verso il driver **U4** ([TJA1050T]) che fornisce al processore i segnali `CAN_TX` e `CAN_RX`.
@@ -255,14 +255,14 @@ Il connettore **J8** fornisce l'interfaccia verso la scheda PCB/22-306 (Paddle D
 | --- | -------------- | ------------------------------------------------------------------ |
 | 1   | `PAD_DVDD`     | Alimentazione a 5V della sezione digitale della scheda PCB/22-306  |
 | 2   | `PAD_DGND`     | Massa della sezione digitale della scheda PCB/22-306               |
-| 3   | `PAD_RX`       | [O] Linea di ricezione del lettore RFID                            |
-| 4   | `PAD_TX`       | [I] Linea di trasmissione del lettore RFID                         |
-| 5   | `PAD_PRESENT`  | [I] Presenza del paddle                                            |
-| 6   | `PAD_UP`       | [I] Comando di decompressione                                      |
-| 7   | `PAD_DOWN`     | [I] Comando di compressione                                        |
+| 3   | `PAD_RX`       | \[O\] Linea di ricezione del lettore RFID                          |
+| 4   | `PAD_TX`       | \[I\] Linea di trasmissione del lettore RFID                       |
+| 5   | `PAD_PRESENT`  | \[I\] Presenza del paddle                                          |
+| 6   | `PAD_UP`       | \[I\] Comando di decompressione                                    |
+| 7   | `PAD_DOWN`     | \[I\] Comando di compressione                                      |
 | 8   | `PAD_AVDD`     | Alimentazione a 5V della sezione analogica della scheda PCB/22-306 |
 | 9   | `PAD_AGND`     | Massa della sezione analogica della scheda PCB/22-306              |
-| 10  | `PADDLE_FORCE` | [A] Sensore di forza                                               |
+| 10  | `PADDLE_FORCE` | \[A\] Sensore di forza                                             |
 
 I segnali digitali dell'interfaccia sono controllati nei loro fronti di salita allo scopo di limitare le emissioni attraverso il cablaggio verso la scheda PCB/22-306. A tale scopo le uscite sono filtrate attraverso un passa-basso RC con costante di tempo pari a 10us, mentre gli ingressi sono applicati al driver **U17** ([SN74HCS365]) con funzione di trigger di Schmidt al fine di ripristinare una veloce transizione dei segnali inoltrati verso il processore. La stessa procedura dovrà essere adottata sull'altro lato del cablaggio, cioè sulla scheda PCB/22-306.
 

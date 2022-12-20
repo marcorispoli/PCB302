@@ -1,6 +1,6 @@
 # Note di sbroglio
 
-*Ultima modifica: 07/12/2022*
+*Ultima modifica: 20/12/2022*
 
 ![layout](images/layout.png)
 
@@ -38,11 +38,11 @@
 
 7. I connettori **J1**, **J4**, **J5**, **J6**, **J7**, **J8** devono essere posizionati lungo il bordo inferiore della scheda.
 
-8. Il connettore **J8** deve essere posizionato a 38mm dal bordo destro della scheda.
+8. Il connettore **J8** deve essere posizionato a 43mm (asse simmetria) dal bordo destro della scheda.
 
 9. Il piano di massa **GND** deve essere solido e continuo, a meno eventualmente della net **CHASSIS_GND**.
 
-10. I diodi TVS (**SMBJ\*\*\*A**) devono essere piazzati il più vicino possibile ai connettori associati.
+10. I diodi TVS (**SMBJ\*A**, **SD05-\***) devono essere piazzati il più vicino possibile ai connettori associati.
 
 11. La net **CHASSIS_GND**, (copper area?) deve essere posizionata lungo tutto il bordo inferiore e accogliere tutti gli anodi dei diodi TVS.
 
