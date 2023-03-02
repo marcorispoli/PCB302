@@ -1,0 +1,148 @@
+********************************************************************
+*                                                                  *
+* Surface Mount Top Report                                         *
+*                                                                  *
+* D:\UTENTI\00.CAD\00.PROGETTI\METALTRONICA\22-302-0\22-302-0.MAX  *
+* Mon Jan 30 13:00:08 2023                                         *
+*                                                                  *
+********************************************************************
+
+ REF DES    VALUE            PACKAGE          FOOTPRINT                      X INSERT   Y INSERT   ROTATION
+------------------------------------------------------------------------------------------------------------
+282                                          02.RIF-MONT-SMD                 -109.22..  5.72 mm   0       
+283                                          02.RIF-MONT-SMD                 -113.03..  50.17 mm  0       
+284                                          02.RIF-MONT-SMD                 1.91 mm    46.99 mm  0       
+C5         10u              C1210            SMD1210                         -52.07 mm  7.62 mm   270     
+C6         10u              C1210            SMD1210                         -52.07 mm  13.34 mm  90      
+C7         10u              C1210            SMD1210                         -50.80 mm  19.05 mm  90      
+C8         10u              C1210            SMD1210                         -62.23 mm  22.86 mm  90      
+C22        100n             C0603            SMD0603                         -23.50 mm  25.40 mm  270     
+C23        100n             C0603            SMD0603                         -14.61 mm  16.51 mm  270     
+C24        100n             C0603            SMD0603                         -1.27 mm   16.51 mm  270     
+C25        100n             C0603            SMD0603                         -10.80 mm  16.51 mm  270     
+C26        100n             C0603            SMD0603                         -6.99 mm   16.51 mm  270     
+C27        100n             C0603            SMD0603                         -3.18 mm   16.51 mm  270     
+C28        10n              C0603            SMD0603                         -33.02 mm  41.28 mm  270     
+C29        100n             C0603            SMD0603                         -33.02 mm  34.93 mm  90      
+C30        10u              C1210            SMD1210                         -24.77 mm  12.07 mm  0       
+C31        1u               C0603            SMD0603                         -42.55 mm  41.28 mm  90      
+C32        100n             C0603            SMD0603                         -40.64 mm  37.47 mm  270     
+C33        1u               C0603            SMD0603                         -36.83 mm  28.58 mm  270     
+C34        10n              C0603            SMD0603                         -92.71 mm  36.20 mm  0       
+C35        5n6              C0603            SMD0603                         -92.71 mm  40.01 mm  180     
+C36        220n             C0603            SMD0603                         -93.35 mm  33.66 mm  270     
+C38        330u 35V         CP-AL-RAD10      ALLSIZEG                        -92.08 mm  24.13 mm  180     
+C41        1u               C0603            SMD0603                         -61.60 mm  43.18 mm  270     
+C42        1u               C0603            SMD0603                         -61.60 mm  31.12 mm  90      
+C43        100n             C0603            SMD0603                         -64.77 mm  43.18 mm  270     
+C44        1u               C0603            SMD0603                         -55.88 mm  43.18 mm  270     
+C45        1u               C0603            SMD0603                         -55.88 mm  31.12 mm  90      
+C46        100n             C0603            SMD0603                         -59.69 mm  43.18 mm  270     
+C47        100n             C0603            SMD0603                         -67.31 mm  46.99 mm  270     
+C48        100n             C0603            SMD0603                         -81.28 mm  38.10 mm  90      
+C49        10u              C1210            SMD1210                         -40.64 mm  8.26 mm   270     
+C50        10u              C1210            SMD1210                         -46.99 mm  7.62 mm   270     
+C51        10n              C0603            SMD0603                         -38.74 mm  20.32 mm  270     
+C52        100n             C0603            SMD0603                         -36.83 mm  20.32 mm  270     
+D2         ES1A             ES1A_0           SMA-1_2                         -55.25 mm  12.70 mm  90      
+D3         ES1A             ES1A_0           SMA-1_2                         -50.80 mm  26.04 mm  90      
+D10        SMBJ5.0CA        SMBJ5.0CA        SMB-1_2                         -0.64 mm   9.53 mm   0       
+D12        1N4148WT         1N4148WT         SOD523F1-2                      -31.12 mm  28.58 mm  90      
+D15        1N4148WT         1N4148WT         SOD523F1-2                      -90.17 mm  33.02 mm  180     
+D16        1N4148WT         1N4148WT         SOD523F1-2                      -90.17 mm  34.29 mm  0       
+DL1        GREEN            APT2012SGC_0     LED0805-MET-12                  -55.88 mm  -1.27 mm  90      
+DL2        GREEN            APT2012SGC_0     LED0805-MET-12                  -59.06 mm  -1.27 mm  90      
+DL3        GREEN            APT2012SGC_0     LED0805-MET-12                  -62.87 mm  -1.27 mm  90      
+DL4        BLUE             APT2012QBC/D     LED0805-MET-12                  -46.36 mm  24.77 mm  90      
+DL5        YELLOW           APT2012YC        LED0805-MET-12                  -15.88 mm  28.58 mm  90      
+DL6        YELLOW           APT2012YC        LED0805-MET-12                  -12.07 mm  28.58 mm  90      
+DL7        YELLOW           APT2012YC        LED0805-MET-12                  -8.26 mm   28.58 mm  90      
+DL8        YELLOW           APT2012YC        LED0805-MET-12                  -4.45 mm   28.58 mm  90      
+DL9        RED              APT2012EC        LED0805-MET-12                  -94.62 mm  48.26 mm  90      
+DL10       GREEN            APT2012SGC_0     LED0805-MET-12                  -92.71 mm  48.26 mm  90      
+DL11       GREEN            APT2012SGC_0     LED0805-MET-12                  -97.79 mm  14.61 mm  270     
+DL12       RED              APT2012EC        LED0805-MET-12                  -91.44 mm  14.61 mm  270     
+DL13       GREEN            APT2012SGC_0     LED0805-MET-12                  -94.62 mm  14.61 mm  270     
+DL14       RED              APT2012EC        LED0805-MET-12                  -71.12 mm  38.10 mm  90      
+DL15       RED              APT2012EC        LED0805-MET-12                  -67.95 mm  38.10 mm  90      
+DL16       RED              APT2012EC        LED0805-MET-12                  -74.30 mm  38.10 mm  90      
+DL17       RED              APT2012EC        LED0805-MET-12                  -77.47 mm  38.10 mm  90      
+DL18       YELLOW           APT2012YC        LED0805-MET-12                  -40.01 mm  13.34 mm  90      
+DL19       YELLOW           APT2012YC        LED0805-MET-12                  -30.48 mm  13.34 mm  90      
+DL20       YELLOW           APT2012YC        LED0805-MET-12                  -28.58 mm  13.34 mm  90      
+F1         0154005.DRT      0154005.DRT      LITTLEFUSE-154                  -80.65 mm  7.62 mm   90      
+F2         SMD050F-2        SMD050F-2        SMD050F_TYCO                    -87.00 mm  13.34 mm  90      
+F3         SMD050F-2        SMD050F-2        SMD050F_TYCO                    -45.72 mm  15.88 mm  90      
+J8         54548-1071       54548-1071       54548-1071-MOLEX                -39.20 mm  0.31 mm   180     
+L3         DLW32SH101XF2L   DLW32SH101XF2L   DLW32S_MURATA                   -20.32 mm  12.70 mm  270     
+L4         BLM18BD102SN1D   BLM18BD102SN1D   SMD0603                         -16.51 mm  13.34 mm  270     
+L5         BLM18BD102SN1D   BLM18BD102SN1D   SMD0603                         -26.04 mm  15.88 mm  270     
+L6         BLM18BD102SN1D   BLM18BD102SN1D   SMD0603                         -37.47 mm  3.81 mm   270     
+L7         BLM18BD102SN1D   BLM18BD102SN1D   SMD0603                         -41.91 mm  3.81 mm   270     
+Q12        BSS138K          BSS138K          SOT23-123                       -51.44 mm  41.28 mm  0       
+Q13        BSS138K          BSS138K          SOT23-123                       -51.44 mm  36.20 mm  0       
+R3         2k2              R1206            SMD1206                         -55.25 mm  4.45 mm   90      
+R4         330              R0603            SMD0603                         -59.06 mm  2.54 mm   270     
+R5         120              R0603            SMD0603                         -62.85 mm  2.54 mm   270     
+R11        220              R0603            SMD0603                         -46.36 mm  28.58 mm  270     
+R15        560              R0603            SMD0603                         -25.40 mm  25.40 mm  270     
+R16        1K               R0603            SMD0603                         -21.59 mm  25.40 mm  270     
+R17        680              R0603            SMD0603                         -16.51 mm  16.51 mm  270     
+R18        1k               R0603            SMD0603                         1.27 mm    28.58 mm  270     
+R19        270              R0603            SMD0603                         -13.97 mm  28.58 mm  90      
+R20        330              R0603            SMD0603                         1.27 mm    16.51 mm  270     
+R21        680              R0603            SMD0603                         -12.70 mm  16.51 mm  270     
+R22        270              R0603            SMD0603                         -10.16 mm  28.58 mm  90      
+R23        680              R0603            SMD0603                         -8.89 mm   16.51 mm  270     
+R24        270              R0603            SMD0603                         -6.35 mm   28.58 mm  90      
+R25        680              R0603            SMD0603                         -5.08 mm   16.51 mm  270     
+R26        270              R0603            SMD0603                         -2.54 mm   28.58 mm  90      
+R27        10               R0603            SMD0603                         -34.93 mm  41.28 mm  270     
+R28        18k              R0603            SMD0603                         -33.02 mm  38.10 mm  270     
+R29        100              R0603            SMD0603                         -29.85 mm  34.93 mm  90      
+R30        2k               R0603            SMD0603                         -31.12 mm  41.28 mm  270     
+R31        20k              R0603            SMD0603                         -34.93 mm  28.58 mm  270     
+R32        20k              R0603            SMD0603                         -33.02 mm  28.58 mm  90      
+R33        10k              R0603            SMD0603                         -38.74 mm  41.28 mm  90      
+R34        20k              R0603            SMD0603                         -40.64 mm  41.28 mm  90      
+R35        10k              R0603            SMD0603                         -40.64 mm  28.58 mm  270     
+R36        20k              R0603            SMD0603                         -38.74 mm  28.58 mm  270     
+R37        100k             R0603            SMD0603                         -92.71 mm  38.10 mm  180     
+R38        100              R0603            SMD0603                         -89.54 mm  36.20 mm  0       
+R41        0R1 - 2W         R2512-2W         SMD2512                         -112.40..  46.99 mm  0       
+R49        10k              R0603            SMD0603                         -52.71 mm  31.75 mm  270     
+R50        10k              R0603            SMD0603                         -57.79 mm  43.18 mm  270     
+R51        1k               R0603            SMD0603                         -85.09 mm  43.82 mm  90      
+R52        1k               R0603            SMD0603                         -73.03 mm  46.36 mm  270     
+R53        10               R0603            SMD0603                         -85.09 mm  40.64 mm  90      
+R54        10               R0603            SMD0603                         -73.03 mm  49.53 mm  270     
+R55        120              R0603            SMD0603                         -67.95 mm  41.91 mm  270     
+R56        120              R0603            SMD0603                         -71.12 mm  41.91 mm  270     
+R57        1k               R0603            SMD0603                         -78.11 mm  49.53 mm  270     
+R58        10               R0603            SMD0603                         -80.01 mm  49.53 mm  270     
+R59        120              R0603            SMD0603                         -74.30 mm  41.91 mm  270     
+R60        1k               R0603            SMD0603                         -84.46 mm  48.90 mm  270     
+R61        10               R0603            SMD0603                         -86.36 mm  48.90 mm  270     
+R62        120              R0603            SMD0603                         -77.47 mm  41.91 mm  270     
+R70        1k               R0603            SMD0603                         -34.93 mm  20.32 mm  90      
+R71        120              R0603            SMD0603                         -40.01 mm  17.15 mm  270     
+R72        120              R0603            SMD0603                         -30.48 mm  17.15 mm  270     
+R73        120              R0603            SMD0603                         -28.58 mm  17.15 mm  270     
+R74        10k              R0603            SMD0603                         -37.47 mm  8.89 mm   90      
+R75        10k              R0603            SMD0603                         -35.56 mm  8.89 mm   90      
+R76        10k              R0603            SMD0603                         -33.66 mm  8.89 mm   90      
+R77        10k              R0603            SMD0603                         -33.02 mm  20.32 mm  270     
+U2         NCP1117DT33T5G   NCP1117DT33T5G_0 DPAK-STD                        -56.52 mm  20.83 mm  0       
+U4         TJA1050T         TJA1050T         SO8                             -21.59 mm  19.61 mm  180     
+U5         TCMT1103         TCMT1103         MINIFLAT4                       -15.88 mm  22.20 mm  0       
+U6         CPC1017N         CPC1017N         CPC1017N-CLARE                  0.00 mm    22.23 mm  180     
+U7         TCMT1103         TCMT1103         MINIFLAT4                       -12.07 mm  22.20 mm  0       
+U8         TCMT1103         TCMT1103         MINIFLAT4                       -8.26 mm   22.20 mm  0       
+U9         TCMT1103         TCMT1103         MINIFLAT4                       -4.45 mm   22.20 mm  0       
+U10        MCP6004-I/ST     MCP6004-I/ST     SOG.65M/14/WG6.4/L5.00          -36.87 mm  34.50 mm  180     
+U11        L6205PD          L6205PD_0        POWERSO20+FORI                  -103.51..  36.20 mm  90      
+U13        MCP4661-503E/ST  MCP4661-503E/ST  SOG.65M/14/WG6.4/L5.00          -62.82 mm  37.26 mm  0       
+U14        MCP4661-503E/ST  MCP4661-503E/ST  SOG.65M/14/WG6.4/L5.00          -57.11 mm  37.26 mm  0       
+U15        MCP6004-I/ST     MCP6004-I/ST     SOG.65M/14/WG6.4/L5.00          -81.24 mm  43.61 mm  0       
+U16        MCP6002-I/MS     MCP6002-I/MS     SOG.65M/8/WG4.9/L3.00           -70.19 mm  47.08 mm  180     
+U17        SN74HCS365PWR    SN74HCS365PWR    PW0016A-TEXAS                   -35.56 mm  14.61 mm  0       

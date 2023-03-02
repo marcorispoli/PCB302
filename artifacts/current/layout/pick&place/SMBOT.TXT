@@ -1,0 +1,112 @@
+********************************************************************
+*                                                                  *
+* Surface Mount Bottom Report                                      *
+*                                                                  *
+* D:\UTENTI\00.CAD\00.PROGETTI\METALTRONICA\22-302-0\22-302-0.MAX  *
+* Mon Jan 30 13:00:08 2023                                         *
+*                                                                  *
+********************************************************************
+
+ REF DES    VALUE            PACKAGE          FOOTPRINT                      X INSERT   Y INSERT   ROTATION
+------------------------------------------------------------------------------------------------------------
+285                                          02.RIF-MONT-SMD                 -113.03..  50.17 mm  0       
+286                                          02.RIF-MONT-SMD                 -109.22..  5.72 mm   0       
+287                                          02.RIF-MONT-SMD                 1.91 mm    46.99 mm  0       
+C1         1u               C0603            SMD0603                         -73.66 mm  17.78 mm  270     
+C2         1u               C0603            SMD0603                         -71.12 mm  17.78 mm  270     
+C3         1u               C0603            SMD0603                         -67.95 mm  17.78 mm  270     
+C4         1u               C0603            SMD0603                         -61.58 mm  18.42 mm  270     
+C9         22p              C0603            SMD0603                         -8.89 mm   40.64 mm  0       
+C10        22p              C0603            SMD0603                         -8.89 mm   42.55 mm  0       
+C11        100n             C0603            SMD0603                         -27.94 mm  43.82 mm  180     
+C12        100n             C0603            SMD0603                         -17.78 mm  27.31 mm  180     
+C13        100n             C0603            SMD0603                         -29.21 mm  29.21 mm  0       
+C14        100n             C0603            SMD0603                         -28.58 mm  41.28 mm  180     
+C15        100n             C0603            SMD0603                         -18.42 mm  46.36 mm  90      
+C16        100n             C0603            SMD0603                         -22.23 mm  45.09 mm  90      
+C17        4u7              C1210            SMD1210                         -24.77 mm  46.36 mm  90      
+C18        100n             C0603            SMD0603                         -10.80 mm  34.29 mm  90      
+C19        4u7              C1210            SMD1210                         -8.26 mm   33.02 mm  90      
+C20        68p              C0603            SMD0603                         -18.42 mm  6.35 mm   90      
+C21        68p              C0603            SMD0603                         -20.96 mm  6.35 mm   90      
+C37        10n              C0603            SMD0603                         -88.27 mm  23.50 mm  90      
+C39        10u              C1210            SMD1210                         -95.89 mm  26.67 mm  270     
+C40        100n             C0603            SMD0603                         -92.06 mm  27.94 mm  270     
+D1         SMBJ30A          SMBJ30A          SMB-1_2                         -78.74 mm  1.27 mm   90      
+D4         SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -19.05 mm  -1.27 mm  90      
+D5         SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -21.59 mm  -1.27 mm  90      
+D6         SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -13.97 mm  -1.27 mm  90      
+D7         SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -8.89 mm   -1.27 mm  90      
+D8         SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -16.51 mm  -1.27 mm  90      
+D9         SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -11.43 mm  -1.27 mm  90      
+D11        SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -6.35 mm   -1.27 mm  90      
+D13        SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -24.13 mm  -1.27 mm  90      
+D14        SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -26.67 mm  -1.27 mm  90      
+D17        SMBJ30A          SMBJ30A          SMB-1_2                         -104.78..  1.27 mm   90      
+D18        SMBJ30A          SMBJ30A          SMB-1_2                         -97.16 mm  1.27 mm   90      
+D19        SMBJ30A          SMBJ30A          SMB-1_2                         -86.36 mm  1.27 mm   90      
+D20        SMBJ30A          SMBJ30A          SMB-1_2                         -90.81 mm  1.27 mm   90      
+D21        SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -47.63 mm  -1.27 mm  90      
+D22        SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -45.09 mm  -1.27 mm  90      
+D23        SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -42.55 mm  -1.27 mm  90      
+D24        SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -40.01 mm  -1.27 mm  90      
+D25        SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -37.47 mm  -1.27 mm  90      
+D26        SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -29.85 mm  -1.27 mm  90      
+D27        SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -34.93 mm  -1.27 mm  90      
+D28        SD05-01FTG       SMBJ5.0A         SOD323_1_2                      -32.39 mm  -1.27 mm  90      
+L1         BLM18BD102SN1D   BLM18BD102SN1D   SMD0603                         -33.66 mm  30.48 mm  0       
+L2         BLM18BD102SN1D   BLM18BD102SN1D   SMD0603                         -6.99 mm   38.74 mm  180     
+NS1        NETSPLIT         NETSPLIT         MVIRT-25MILS-N                  -17.15 mm  24.77 mm  90      
+NS2        NETSPLIT         NETSPLIT         MVIRT-25MILS-N                  -30.48 mm  30.48 mm  0       
+NS3        NETSPLIT         NETSPLIT         MVIRT-25MILS-N                  -25.40 mm  41.28 mm  180     
+NS4        NETSPLIT         NETSPLIT         MVIRT-25MILS-N                  -20.32 mm  46.36 mm  270     
+NS5        NETSPLIT         NETSPLIT         MVIRT-25MILS-N                  -5.72 mm   33.02 mm  270     
+NS6        NETSPLIT         NETSPLIT         MVIRT-25MILS-N                  -18.42 mm  24.77 mm  270     
+NS7        NETSPLIT         NETSPLIT         MVIRT-25MILS-N                  -29.21 mm  27.94 mm  180     
+NS8        NETSPLIT         NETSPLIT         MVIRT-25MILS-N                  -27.94 mm  39.37 mm  180     
+NS9        NETSPLIT         NETSPLIT         MVIRT-25MILS-N                  -27.94 mm  48.26 mm  180     
+NS10       NETSPLIT         NETSPLIT         MVIRT-25MILS-N                  -8.26 mm   36.83 mm  90      
+Q1         BSS138K          BSS138K          SOT23-123                       -46.36 mm  29.21 mm  180     
+Q2         DMP510DL         DMP510DL         SOT23-123                       -93.98 mm  43.82 mm  0       
+Q3         BSS138K          BSS138K          SOT23-123                       -89.54 mm  48.90 mm  0       
+Q4         BSS138K          BSS138K          SOT23-123                       -89.54 mm  43.82 mm  0       
+Q5         BSS138K          BSS138K          SOT23-123                       -97.16 mm  19.05 mm  0       
+Q6         BSS138K          BSS138K          SOT23-123                       -79.38 mm  19.05 mm  0       
+Q7         BSS138K          BSS138K          SOT23-123                       -83.82 mm  19.05 mm  0       
+Q8         BSS138K          BSS138K          SOT23-123                       -92.71 mm  19.05 mm  0       
+Q9         BSS138K          BSS138K          SOT23-123                       -88.27 mm  19.05 mm  0       
+Q10        BSS138K          BSS138K          SOT23-123                       -83.82 mm  10.16 mm  180     
+Q11        ZXMS6004FFTA     ZXMS6004FFTA     SOT23-123                       -88.27 mm  13.34 mm  180     
+Q14        BSS138K          BSS138K          SOT23-123                       -58.42 mm  40.01 mm  90      
+Q15        BSS138K          BSS138K          SOT23-123                       -63.50 mm  40.01 mm  90      
+Q16        BSS138K          BSS138K          SOT23-123                       -63.50 mm  47.63 mm  90      
+Q17        DMP510DL         DMP510DL         SOT23-123                       -53.34 mm  47.63 mm  90      
+Q18        BSS138K          BSS138K          SOT23-123                       -58.42 mm  47.63 mm  90      
+R1         22k              R0603            SMD0603                         -65.41 mm  18.42 mm  270     
+R2         2k               R0603            SMD0603                         -63.51 mm  18.42 mm  90      
+R6         JUMPER           R0805            SMD0805                         -113.67..  7.62 mm   90      
+R7         10k              R0603            SMD0603                         -27.94 mm  45.72 mm  180     
+R8         1k               R0603            SMD0603                         -16.51 mm  46.36 mm  90      
+R9         2k               R0603            SMD0603                         -28.58 mm  36.20 mm  180     
+R10        2k               R0603            SMD0603                         -28.58 mm  38.10 mm  180     
+R12        4k               R0603            SMD0603                         -10.16 mm  38.74 mm  0       
+R13        0                R0603            SMD0603                         -10.16 mm  36.83 mm  180     
+R14        10k              R0603            SMD0603                         -28.58 mm  33.02 mm  180     
+R39        120              R0603            SMD0603                         -94.62 mm  48.26 mm  90      
+R40        120              R0603            SMD0603                         -92.71 mm  48.26 mm  270     
+R42        330              R0603            SMD0603                         -92.71 mm  13.97 mm  270     
+R43        150              R0603            SMD0603                         -94.62 mm  13.97 mm  270     
+R44        10k              R0603            SMD0603                         -98.43 mm  13.97 mm  270     
+R45        10k              R0603            SMD0603                         -78.74 mm  13.97 mm  270     
+R46        10k              R0603            SMD0603                         -82.55 mm  13.97 mm  270     
+R47        330              R0603            SMD0603                         -96.52 mm  13.97 mm  90      
+R48        10k              R0603            SMD0603                         -84.46 mm  13.97 mm  90      
+R63        1k               R0603            SMD0603                         -64.77 mm  43.82 mm  270     
+R64        1k               R0603            SMD0603                         -64.77 mm  36.20 mm  270     
+R65        10k              R0603            SMD0603                         -62.23 mm  36.20 mm  90      
+R66        10k              R0603            SMD0603                         -54.61 mm  40.01 mm  90      
+R67        10k              R0603            SMD0603                         -52.07 mm  43.82 mm  90      
+R68        10k              R0603            SMD0603                         -62.23 mm  43.82 mm  270     
+R69        1k               R0603            SMD0603                         -54.61 mm  43.82 mm  270     
+U3         ATSAME51J20A-AU  ATSAME51J20A-AU  QUAD.50M/64/WG12.00             -19.70 mm  36.25 mm  90      
+XT1        32.768kHz        ECS-.327-12.5-.. ECX-16                          -11.43 mm  41.28 mm  90      
