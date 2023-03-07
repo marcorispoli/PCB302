@@ -98,7 +98,7 @@
     (DRC_Identical_References "TRUE")
     (DRC_Run_Custom_Rules "FALSE")
     (DRC_Report_File
-       "D:\WORK\MT\PROJECTS\PCB-22-302 (SCHEDA CONTROLLO COMPRESSORE - Z190)\ORCAD\22-302-0.DRC")
+       "d:\work\mt\projects\pcb-22-302 (scheda controllo compressore - z190)\capture\22-302-0.drc")
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
@@ -130,6 +130,14 @@
       (Sort User)))
   (Folder "Logs")
   (PartMRUSelector
+    (MNTH-2.5
+      (FullPartName "MNTH-2.5.Normal")
+      (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
+      (DeviceIndex "0"))
+    (SD05-01FTG
+      (FullPartName "SD05-01FTG.Normal")
+      (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
+      (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -217,13 +225,6 @@
       (DeviceIndex "0"))
     (105311-1102
       (FullPartName "105311-1102.Normal")
-      (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
-      (DeviceIndex "0"))
-    (OFFPAGELEFT-L
-      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (105310-2210
-      (FullPartName "105310-2210.Normal")
       (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
       (DeviceIndex "0")))
   (GlobalState

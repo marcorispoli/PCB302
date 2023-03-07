@@ -1,4 +1,4 @@
-Date and Time : 12/07/22 10:15:09
+Date and Time : 03/07/23 11:31:55
 
 --------------------------------------------------
 Checking Schematic: CONTROLLER
@@ -42,37 +42,29 @@ INFO(ORCAP-36105): Checking Missing Pin Numbers
 Checking Device with Zero pins  
 INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
 #1 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance MH4: CONTROLLER, 01 - SUPPLY (231.14, 142.24) .
-#2 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U10A: CONTROLLER, 05 - ANALOG (101.60, 22.86).
-#3 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U10B: CONTROLLER, 05 - ANALOG (104.14, 93.98).
-#4 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U10C: CONTROLLER, 05 - ANALOG (104.14, 154.94).
-#5 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U10E: CONTROLLER, 05 - ANALOG (226.06, 124.46).
-#6 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U10D: CONTROLLER, 05 - ANALOG (139.70, 33.02).
+#2 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U10A: CONTROLLER, 05 - ANALOG (101.60, 22.86) .
+#3 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U10B: CONTROLLER, 05 - ANALOG (104.14, 93.98) .
+#4 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U10C: CONTROLLER, 05 - ANALOG (104.14, 154.94) .
+#5 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U10E: CONTROLLER, 05 - ANALOG (226.06, 124.46) .
+#6 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U10D: CONTROLLER, 05 - ANALOG (139.70, 33.02) .
 #7 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U1: CONTROLLER, 01 - SUPPLY (76.20, 83.82) .
 #8 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance MH5: CONTROLLER, 01 - SUPPLY (248.92, 142.24) .
-#9 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U13: CONTROLLER, 08 - SAFETY1 (88.90, 30.48).
-#10 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J8: CONTROLLER, 11 - PADDLE (48.26, 27.94).
-#11 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance J7: CONTROLLER, 07 - BRAKE (185.42, 86.36) .
-#12 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C38: CONTROLLER, 06 - MOTOR (218.44, 154.94).
-#13 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance J6: CONTROLLER, 06 - MOTOR (246.38, 60.96) .
-#14 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance MH2: CONTROLLER, 01 - SUPPLY (195.58, 142.24) .
-#15 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J5: CONTROLLER, 05 - ANALOG (40.64, 91.44).
-#16 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance MH3: CONTROLLER, 01 - SUPPLY (213.36, 142.24) .
-#17 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U15C: CONTROLLER, 09 - SAFETY2 (91.44, 81.28).
-#18 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U15A: CONTROLLER, 09 - SAFETY2 (43.18, 17.78).
-#19 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U15B: CONTROLLER, 09 - SAFETY2 (91.44, 43.18).
-#20 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U15D: CONTROLLER, 09 - SAFETY2 (91.44, 119.38).
-#21 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U15E: CONTROLLER, 09 - SAFETY2 (88.90, 160.02).
-#22 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J4: CONTROLLER, 04 - HARDWARE BUS (205.74, 111.76).
-#23 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U14: CONTROLLER, 08 - SAFETY1 (88.90, 83.82).
-#24 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U17: CONTROLLER, 11 - PADDLE (96.52, 111.76).
-#25 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance MH1: CONTROLLER, 01 - SUPPLY (177.80, 142.24) .
-#26 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J3: CONTROLLER, 02 - CPU (38.10, 93.98).
-#27 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U2: CONTROLLER, 01 - SUPPLY (76.20, 144.78).
-#28 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U16A: CONTROLLER, 09 - SAFETY2 (182.88, 17.78) .
-#29 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U16B: CONTROLLER, 09 - SAFETY2 (231.14, 43.18) .
-#30 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U16C: CONTROLLER, 09 - SAFETY2 (228.60, 86.36) .
-#31 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U3: CONTROLLER, 02 - CPU (121.92, 45.72) .
-#32 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J1: CONTROLLER, 01 - SUPPLY (35.56, 30.48).
+#9 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U13: CONTROLLER, 08 - SAFETY1 (88.90, 30.48) .
+#10 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance J7: CONTROLLER, 07 - BRAKE (185.42, 86.36) .
+#11 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance MH2: CONTROLLER, 01 - SUPPLY (195.58, 142.24) .
+#12 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance J6: CONTROLLER, 06 - MOTOR (246.38, 60.96) .
+#13 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance MH3: CONTROLLER, 01 - SUPPLY (213.36, 142.24) .
+#14 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U15C: CONTROLLER, 09 - SAFETY2 (91.44, 81.28) .
+#15 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U15A: CONTROLLER, 09 - SAFETY2 (43.18, 17.78) .
+#16 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U15B: CONTROLLER, 09 - SAFETY2 (91.44, 43.18) .
+#17 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U15D: CONTROLLER, 09 - SAFETY2 (91.44, 119.38) .
+#18 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U15E: CONTROLLER, 09 - SAFETY2 (88.90, 160.02) .
+#19 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U14: CONTROLLER, 08 - SAFETY1 (88.90, 83.82) .
+#20 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance MH1: CONTROLLER, 01 - SUPPLY (177.80, 142.24) .
+#21 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U16A: CONTROLLER, 09 - SAFETY2 (182.88, 17.78) .
+#22 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U16B: CONTROLLER, 09 - SAFETY2 (231.14, 43.18) .
+#23 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U16C: CONTROLLER, 09 - SAFETY2 (228.60, 86.36) .
+#24 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U3: CONTROLLER, 02 - CPU (121.92, 45.72) .
 
 Checking Name Property for Hierarchical Instances  
 
