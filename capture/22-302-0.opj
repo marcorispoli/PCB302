@@ -1,6 +1,6 @@
 (ExpressProject "22-302-0"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S003 (3838025) [1/28/2020]-[12/07/22]")
+  (SoftwareVersion "17.4-2019 S003 (3838025) [1/28/2020]-[03/07/23]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -102,11 +102,11 @@
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
-       "D:\WORK\MT\PROJECTS\PCB-22-302 (SCHEDA CONTROLLO COMPRESSORE - Z190)\ORCAD\22-302-0.BOM")
+       "D:\Work\MT\projects\pcb-22-302 (scheda controllo compressore - Z190)\capture\22-302-0.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
-       "{Item}\t{Source Package}\t{Quantity}\t{Reference}\t{Value}")
-    (BOM_Header "Item\tPart\tQuantity\tReference\tValue")
+       "{Item}\t{Source Package}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}")
+    (BOM_Header "Item\tPart\tQuantity\tReference\tValue\tFootprint")
     (BOM_Include_File
        "D:\WORK\MT\PROJECTS\PCB-22-302 (SCHEDA CONTROLLO COMPRESSORE - Z190)\ORCAD\22-302-0.INC")
     (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
@@ -229,7 +229,7 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Outputs"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
