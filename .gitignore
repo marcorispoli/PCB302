@@ -1,8 +1,8 @@
 *-PSpiceFiles/
 
-orcad/*.dsnlck
-orcad/*.dbk
-orcad/*.3sav
+capture/*.dsnlck
+capture/*.dbk
+capture/*.3sav
 
 spice/**/*.log
 spice/**/*.raw
