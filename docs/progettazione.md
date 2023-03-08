@@ -164,7 +164,7 @@ A partire dall'alimentazione `24V`, tramite il regolatore switching **U1** ([R-7
 
 Dall'alimentazione `5V`, tramite il regolatore lineare **U2** ([NCP1117]), viene generata l'alimentazione `3V3`, per una corrente fino a 1A.
 
-Le tre alimentazioni fornite alla scheda sono riportate sul connettore **J2** (`SUPPLY_TEST`) per agevolarne il test. Un partitore con rapporto 1:12 produce il segnale `SUPPLY_MONITOR` in ingresso al microcontrollore.
+Le tre alimentazioni fornite alla scheda sono riportate sul connettore **J2** (`SUPPLY_TEST`) per agevolarne il test. Un partitore con rapporto 1:12 e applicato all'alimentazione `24V` produce il segnale `SUPPLY_MONITOR` in ingresso al microcontrollore.
 
 ### 2.4. Processore
 
@@ -465,7 +465,8 @@ All'accensione della scheda, il multi-vibratore è forzato nello stato attivo tr
 
 **Attivi**:
 
-- Diodo TVS : [SMBJ5.0A, SMBJ5.0CA, SMBJ30A, SMBJ30CA][SMBJ]
+- Diodo TVS 600W : [SMBJ5.0A, SMBJ5.0CA, SMBJ30A, SMBJ30CA][SMBJ]
+- Diodo TVS 450W : [SD05-01FTG][SD05]
 - Diodo LED giallo : [APT2012YC]
 - Diodo LED verde : [APT2012SGC]
 - Diodo LED blu : [APT2012QBC/D]
@@ -475,6 +476,7 @@ All'accensione della scheda, il multi-vibratore è forzato nello stato attivo tr
 - Transistor P-MOSFET 180mA : [DMP510DL]
 
 [SMBJ]: https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smbj_datasheet.pdf.pdf
+[SD05]: https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_datasheet.pdf.pdf
 [APT2012YC]: https://www.kingbrightusa.com/images/catalog/SPEC/APT2012YC.pdf
 [APT2012SGC]: https://www.kingbrightusa.com/images/catalog/SPEC/APT2012SGC.pdf
 [APT2012QBC/D]: https://www.kingbrightusa.com/images/catalog/SPEC/APT2012QBC-D.pdf
