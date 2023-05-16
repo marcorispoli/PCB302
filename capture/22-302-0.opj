@@ -1,6 +1,6 @@
 (ExpressProject "22-302-0"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S003 (3838025) [1/28/2020]-[03/07/23]")
+  (SoftwareVersion "17.4-2019 S003 (3838025) [1/28/2020]-[05/16/23]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -130,6 +130,26 @@
       (Sort User)))
   (Folder "Logs")
   (PartMRUSelector
+    (BSS138
+      (FullPartName "BSS138.Normal")
+      (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
+      (DeviceIndex "0"))
+    (BSS84
+      (FullPartName "BSS84.Normal")
+      (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
+      (DeviceIndex "0"))
+    (TCMT1104
+      (FullPartName "TCMT1104.Normal")
+      (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
+      (DeviceIndex "0"))
+    (LD1117DT33
+      (FullPartName "LD1117DT33.Normal")
+      (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
+      (DeviceIndex "0"))
+    (HEADER-2
+      (FullPartName "HEADER-2.Normal")
+      (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
+      (DeviceIndex "0"))
     (MNTH-2.5
       (FullPartName "MNTH-2.5.Normal")
       (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
@@ -206,31 +226,10 @@
       (DeviceIndex "0"))
     (OFFPAGELEFT-R
       (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (SMD050F-2
-      (FullPartName "SMD050F-2.Normal")
-      (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
-      (DeviceIndex "0"))
-    (MOUNTING_HOLE
-      (FullPartName "MOUNTING_HOLE.Normal")
-      (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
-      (DeviceIndex "0"))
-    (MC1,5/2-G-3,81
-      (FullPartName "MC1,5/2-G-3,81.Normal")
-      (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
-      (DeviceIndex "0"))
-    (CPC1017N
-      (FullPartName "CPC1017N.Normal")
-      (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
-      (DeviceIndex "0"))
-    (105311-1102
-      (FullPartName "105311-1102.Normal")
-      (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
-      (Path "Design Resources")
-      (Select "Design Resources"))
+      (Path "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

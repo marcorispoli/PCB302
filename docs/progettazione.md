@@ -465,24 +465,26 @@ All'accensione della scheda, il multi-vibratore è forzato nello stato attivo tr
 
 **Attivi**:
 
+- Diodo piccoli segnali : [1N4148WT]
 - Diodo TVS 600W : [SMBJ5.0A, SMBJ5.0CA, SMBJ30A, SMBJ30CA][SMBJ]
 - Diodo TVS 450W : [SD05-01FTG][SD05]
 - Diodo LED giallo : [APT2012YC]
 - Diodo LED verde : [APT2012SGC]
 - Diodo LED blu : [APT2012QBC/D]
 - Diodo LED rosso : [APT2012EC]
-- Transistor N-MOSFET 220mA : [BSS138K]
+- Transistor N-MOSFET 220mA : [BSS138]
 - Transistor N-MOSFET 1.3A : [ZXMS6004FF]
-- Transistor P-MOSFET 180mA : [DMP510DL]
+- Transistor P-MOSFET 180mA : [BSS84]
 
+[1N4148WT]: https://www.diodes.com/assets/Datasheets/1N4148WT.pdf
 [SMBJ]: https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smbj_datasheet.pdf.pdf
 [SD05]: https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_datasheet.pdf.pdf
 [APT2012YC]: https://www.kingbrightusa.com/images/catalog/SPEC/APT2012YC.pdf
 [APT2012SGC]: https://www.kingbrightusa.com/images/catalog/SPEC/APT2012SGC.pdf
 [APT2012QBC/D]: https://www.kingbrightusa.com/images/catalog/SPEC/APT2012QBC-D.pdf
 [APT2012EC]: https://www.kingbrightusa.com/images/catalog/SPEC/APT2012EC.pdf
-[BSS138K]: https://www.onsemi.com/pdf/datasheet/bss138k-d.pdf
-[DMP510DL]: https://www.diodes.com/assets/Datasheets/DMP510DL.pdf
+[BSS138]: https://www.onsemi.com/pdf/datasheet/bss138-d.pdf
+[BSS84]: https://www.onsemi.com/pdf/datasheet/bss84-d.pdf
 [ZXMS6004FF]: https://www.diodes.com/assets/Datasheets/ZXMS6004FF.pdf
 
 **Passivi**:
