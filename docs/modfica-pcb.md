@@ -1,6 +1,6 @@
 # Modifica sbroglio PCB/22-302-0
 
-*Ultima modifica: 16/05/2023*
+*Ultima modifica: 18/05/2023*
 
 - Portare i connettori **J6** (`MOTOR`) e **J7** (`BRAKE`) a filo del bordo scheda. Spostare le etichette all'interno.
 - Scambiare di posto **DL12** e **DL13**.
@@ -13,4 +13,5 @@
 - Inserito **D29** in parallelo a **J7**, nella pagina `BRAKE`.
 - Disconnesso il pin `11` di **U13** e **U14** dalla net `CALIBRATION_ENA`, nella pagina `SAFETY1`.
 - Inseriti **D30** e **R80** sull'ingresso di **U16A**, nella pagina `SAFETY2`.
+- Sostituito il connettore **J8** con connettore da 12 pin anziché 10, nella pagina `PADDLE`.
 - Il codice `22-302-0` resta invariato.
