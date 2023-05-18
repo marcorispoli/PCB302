@@ -1,4 +1,4 @@
-REVISIONS  Revised: Tuesday, May 16, 2023
+REVISIONS  Revised: Thursday, May 18, 2023
 PCB/22-302-0          Revision: 3
 
 
@@ -7,7 +7,7 @@ PCB/22-302-0          Revision: 3
 
 
 
-Bill Of Materials            May 16,2023      15:59:03	Page1
+Bill Of Materials            May 18,2023      9:58:27	Page1
 
 Item	Part	Quantity	Reference	Value	Footprint
 ______________________________________________
@@ -41,7 +41,7 @@ ______________________________________________
 27	22-05-3031	1	J5	22-05-3031	22053031-MOLEX
 28	MC1,5/3-G-3,81	1	J6	MC1,5/3-G-3,81	MC1.5-3-G-3.81-OPP
 29	MC1,5/2-G-3,81	1	J7	MC1,5/2-G-3,81	MC1.5-2-G-3.81-OPP
-30	54548-1071	1	J8	54548-1071	54548-1071-MOLEX
+30	54548-1271	1	J8	54548-1271	
 31	HEADER-2	1	J9	HEADER-2	2SIP100-NEUTRO
 32	BLM18BD102SN1D	6	L1,L2,L4,L5,L6,L7	BLM18BD102SN1D	SMD0603
 33	DLW32SH101XF2L	1	L3	DLW32SH101XF2L	DLW32S_MURATA

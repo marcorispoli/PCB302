@@ -1,6 +1,6 @@
 (ExpressProject "22-302-0"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S003 (3838025) [1/28/2020]-[05/16/23]")
+  (SoftwareVersion "17.4-2019 S003 (3838025) [1/28/2020]-[05/18/23]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -130,6 +130,10 @@
       (Sort User)))
   (Folder "Logs")
   (PartMRUSelector
+    (54548-1271
+      (FullPartName "54548-1271.Normal")
+      (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
+      (DeviceIndex "0"))
     (BSS138
       (FullPartName "BSS138.Normal")
       (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
@@ -223,13 +227,11 @@
     (L6205PD
       (FullPartName "L6205PD.Normal")
       (LibraryName "D:\WORK\MT\_LIBS_\ORCAD-CAPTURE-LIBRARY\LIBS\PARTS.OLB")
-      (DeviceIndex "0"))
-    (OFFPAGELEFT-R
-      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
-      (Path "Design Resources"))
+      (Path "Design Resources")
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -237,4 +239,6 @@
         (Placement "44 0 1 -1 -1 -1 -1 0 200 0 951"))
       (Tab 0)))
   (MPSSessionName "lanfranco")
-  (ISPCBBASICLICENSE "false"))
+  (ISPCBBASICLICENSE "false")
+  (LastUsedLibraryBrowseDirectory
+     "D:\Work\MT\_libs_\orcad-capture-library\libs"))
