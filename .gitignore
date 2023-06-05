@@ -1,3 +1,5 @@
+artifacts/releases/*_layout
+
 *-PSpiceFiles/
 
 capture/**/*.dsnlck

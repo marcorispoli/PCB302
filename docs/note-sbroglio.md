@@ -1,6 +1,6 @@
 # Note di sbroglio
 
-*Ultima modifica: 20/12/2022*
+*Ultima modifica: 31/05/2023*
 
 ![layout](images/layout.png)
 
@@ -51,3 +51,21 @@
 13. Riportare sulla serigrafia le etichette espresse dalla proprietà **COMMENT** dei componenti dello schematico, limitatamente ai connettori, ai testpoint e ai led. NON INCLUDERE LE PARENTESI QUADRE.
 
 14. Piazzare i led sullo strato TOP.
+
+## Modifiche sbroglio (schematico revisione 3)
+
+[Collaudo revisione 2](./collaudo-rev2.pdf)
+
+- [x] Portare i connettori **J6** (`MOTOR`) e **J7** (`BRAKE`) a filo del bordo scheda. Spostare le etichette all'interno.
+- [x] Scambiare di posto **DL12** e **DL13**.
+- [x] Riportare in visibilità l'etichetta di **R41**, coperta dal solder mask di **U11**.
+- [x] Inserito **R78** sulla net `CURRENT_SENSOR`, nella pagina `ANALOG`.
+- [x] Inserito **R79** in parallelo a **C37**, nella pagina `MOTOR`.
+- [x] Corretto il simbolo sullo schematico di **U12**.
+- [x] Invertite le net sui pin `1` e `2` di **U12**.
+- [x] Inserito il jumper **J9** in parallelo all'uscita di **U12**, nella pagina `MOTOR`.
+- [x] Inserito **D29** in parallelo a **J7**, nella pagina `BRAKE`.
+- [x] Disconnesso il pin `11` di **U13** e **U14** dalla net `CALIBRATION_ENA`, nella pagina `SAFETY1`.
+- [x] Inseriti **D30** e **R80** sull'ingresso di **U16A**, nella pagina `SAFETY2`.
+- [x] Sostituito il connettore **J8** con connettore da 12 pin anziché 10, nella pagina `PADDLE`.
+- [x] Il codice `22-302-0` resta invariato.

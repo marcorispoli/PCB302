@@ -1,6 +1,6 @@
 (ExpressProject "22-302-0"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S003 (3838025) [1/28/2020]-[05/18/23]")
+  (SoftwareVersion "17.4-2019 S003 (3838025) [1/28/2020]-[05/23/23]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")

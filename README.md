@@ -44,7 +44,7 @@ pcb-22-302/     [pcb-22-302.git]
 ## Documentazione
 
 - [Progettazione](docs/progettazione.md)
-- [Schematico](artifacts/current/docs/SE22-302-0_r2.pdf)
+- [Schematico](artifacts/current/docs/SE22-302-0_r3.pdf)
 - [Schematico (collaudo)](docs/collaudo-rev2.pdf)
-- [Lista parti](artifacts/current/docs/LP22-302-0_r2.pdf)
+- [Lista parti](artifacts/current/docs/LP22-302-0_r3.pdf)
 - [Piano di montaggio](artifacts/current/layout/drawings/PM22-302-0.pdf)
